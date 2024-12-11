@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #4c90af;
     color: white;
     padding: 1.5rem;
     text-align: center;
@@ -34,10 +34,10 @@ nav a:hover {
 .hero {
     position: relative;
     height: 60vh;
-    background: url('/assets/images/school-building.jpg') no-repeat center center/cover;
+    background: url('/mini_project/assets/images/school-building.jpg') no-repeat center center/cover;
     color: white;
     display: flex;
-    align-items: center;
+    align-items: center; 
     justify-content: center;
 }
 
@@ -196,7 +196,7 @@ footer {
     margin-bottom: 1.5rem;
 }
 
-/* hell */
+/* hello */
 
 
 .registration-form label {
